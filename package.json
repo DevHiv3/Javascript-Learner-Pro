@@ -1,9 +1,9 @@
 {
-<<<<<<< HEAD
+
   "name": "server",
-=======
-  "name": "web-tool",
->>>>>>> 7c6ae62 (Initial commit from Create Next App)
+
+  "name": "Javascript Learner Pro",
+
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,11 +13,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
+
     "next": "13.5.2",
-=======
+
     "next": "13.4.13",
->>>>>>> 7c6ae62 (Initial commit from Create Next App)
+
     "react": "18.2.0",
     "react-dom": "18.2.0"
   }
